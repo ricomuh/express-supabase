@@ -15,6 +15,7 @@
   },
   "scripts": {
     "start": "bun run ./src/index.ts",
-    "dev": "bun --hot ./src/index.ts"
+    "dev": "bun --hot ./src/index.ts",
+    "build": "bun build ./src/index.ts"
   }
 }
